@@ -24,3 +24,5 @@ Images are all .PNG files and most are 500X500 image size which seems to scale d
 The Template files are all in .PDN format which I think you'll need to Paint.net to read. 
 
 Coming in a few days will be a cleanup of the Template files and I will be moving to more standard font sizes and screen layouts.
+
+all you need to do to get started is Download the release to your system. Extract the Zip and explore. ask questions if anything is unclear.
